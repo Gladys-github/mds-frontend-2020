@@ -1,71 +1,71 @@
-
-
-
-.top-bar {
-  overflow: hidden;
-  background-color: #333333;
-}
-
-.top-bar a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 15px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.top-bar a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.top-bar a.active {
-  background-color: #4caf50;
-  color: white;
-}
-
-.contenu {
-  background-image: url(images/bureau.jpg);
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  /* text-align: right; */
-}
-
-.hover-text {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
-
-.image-right-padding {
-  /* padding-right: 8%;
-  padding-top: 5%; */
-}
-
-
-h1 {
-    text-align: center;
-    font-size: 40px;
-    font-family: sans-serif;
-    color: lightcoral;
-    margin: 50px 0;
-  }
-
-
-.div { 
-         height: 95vh;
-         background-image: url(D:\Documents\COURS MDS\P A R C O U R S  C L I E N T  C O D E\portfolio\images);
-         background-size: cover;
-         background-position: top;
-      }
-
-
-
-
+
+
+
+.top-bar {
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.top-bar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.top-bar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.top-bar a.active {
+  background-color: #4caf50;
+  color: white;
+}
+
+.contenu {
+  background-image: url(images/bureau.jpg);
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  /* text-align: right; */
+}
+
+.hover-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.image-right-padding {
+  /* padding-right: 8%;
+  padding-top: 5%; */
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: lightcoral;
+    margin: 50px 0;
+  }
+
+
+.home { 
+         height: 95vh;
+         background-image: url("PROJET/img/gladys-portfolio.jpeg");
+         background-size: cover;
+         background-position: top;
+      }
+
+
+
+
