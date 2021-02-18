@@ -55,17 +55,17 @@ li a:hover{
   font-size: 30px;
 }
 
-.item1{
+.introduction{
   grid-column: 1 / span 2;
   grid-row: 1;
 }
 
-.item2{
+.photocv{
   grid-column: 3;
   grid-row: 1 / span 2;
 }
 
-.item5{
+.loisirs{
   grid-column: 1 / span 3;
   grid-row: 3;
 }
@@ -96,18 +96,18 @@ li a:hover{
 }
 
 .photo{
-    height: 350px;
+    height: 280px;
 }
 .logo-company{
-    height: 100px;
+    height: 80px;
 }
 .label-experience{
     float: left;
 }
 .experience{
     background-color: #FFEBCD;
-    height: 120px;
-    border: 2px solid #95796f;
-    padding: 10px;
+    height: 125px;
+    border: 3px solid #95796f;
+    padding: 35px;
     border-radius: 50px 20px;
 }
